@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mathe2810 alias matheo leon
 - 👀 I’m interested in electronics fpga and coding 
-- 🌱 I’m currently learning c and graph theory/VHDL
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently learning HTLM, XML and Java script
+- 💞️ I’m looking to collaborate on an Internship in a Embedded system company.
 - 📫 How to reach me matheogleon92100@yahoo.com
 
 <!---
