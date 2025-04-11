@@ -395,6 +395,9 @@
         <mxCell id="-95w8V4aREKTsoUJYgf--0" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;To do:&lt;/h1&gt;&lt;p&gt;- Ajouter les fonctions de clients&lt;/p&gt;&lt;p&gt;- Ajouter les fonctions de admin&lt;/p&gt;&lt;p&gt;- Ajouter les fonctions de commande totale&lt;/p&gt;&lt;p&gt;- Ajouter les fonctions d&#39;Article&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="15" y="11" width="240" height="199" as="geometry" />
         </mxCell>
+        <mxCell id="-95w8V4aREKTsoUJYgf--1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Explication:&lt;/h1&gt;&lt;p&gt;Une commande est une ligne de commande.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="15" y="810" width="180" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
