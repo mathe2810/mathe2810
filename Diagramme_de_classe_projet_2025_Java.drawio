@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2107" dy="1669" grid="0" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="939" grid="0" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -380,15 +380,6 @@
         <mxCell id="Xi0lh-YOYM07BusuPmuq-4" value="+ getDate(): " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Xi0lh-YOYM07BusuPmuq-0" vertex="1">
           <mxGeometry y="60" width="183" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xi0lh-YOYM07BusuPmuq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Xi0lh-YOYM07BusuPmuq-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1343.0000000000005" y="165" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1343" y="135" />
-              <mxPoint x="1344" y="80" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Xi0lh-YOYM07BusuPmuq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_gGad9FiiaPd4enUCd2u-57" target="Xi0lh-YOYM07BusuPmuq-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -397,6 +388,9 @@
         </mxCell>
         <mxCell id="-95w8V4aREKTsoUJYgf--1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Explication:&lt;/h1&gt;&lt;p&gt;Une commande est une ligne de commandeTotale.&lt;/p&gt;&lt;p&gt;colonne id article&lt;/p&gt;&lt;p&gt;4 6 3 12&lt;/p&gt;&lt;p&gt;colonne nombre d&#39;article&lt;/p&gt;&lt;p&gt;1 60 3 4&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="15" y="810" width="180" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-95w8V4aREKTsoUJYgf--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_gGad9FiiaPd4enUCd2u-55" target="Xi0lh-YOYM07BusuPmuq-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
