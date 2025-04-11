@@ -392,6 +392,9 @@
         <mxCell id="Xi0lh-YOYM07BusuPmuq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_gGad9FiiaPd4enUCd2u-57" target="Xi0lh-YOYM07BusuPmuq-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-95w8V4aREKTsoUJYgf--0" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;To do:&lt;/h1&gt;&lt;p&gt;- Ajouter les fonctions de clients&lt;/p&gt;&lt;p&gt;- Ajouter les fonctions de admin&lt;/p&gt;&lt;p&gt;- Ajouter les fonctions de commande totale&lt;/p&gt;&lt;p&gt;- Ajouter les fonctions d&#39;Article&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="15" y="11" width="240" height="199" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
