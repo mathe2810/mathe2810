@@ -401,20 +401,8 @@
         <mxCell id="_1_QW9djNX36zO0-zw1q-6" value="Modèle (Objets Métiers)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3075" y="316" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_1_QW9djNX36zO0-zw1q-7" value="CommandeDAO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_1_QW9djNX36zO0-zw1q-7" value="DAO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3075" y="457" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_1_QW9djNX36zO0-zw1q-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1_QW9djNX36zO0-zw1q-8" target="_1_QW9djNX36zO0-zw1q-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_1_QW9djNX36zO0-zw1q-8" value="ArticleDAO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2850" y="457" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_1_QW9djNX36zO0-zw1q-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1_QW9djNX36zO0-zw1q-9" target="_1_QW9djNX36zO0-zw1q-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_1_QW9djNX36zO0-zw1q-9" value="ClientDAO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2633" y="457" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_1_QW9djNX36zO0-zw1q-10" value="Base de données" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3075" y="594" width="120" height="60" as="geometry" />
