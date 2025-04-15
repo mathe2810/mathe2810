@@ -261,7 +261,7 @@
           <mxGeometry x="-827" y="2" width="117" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_1_QW9djNX36zO0-zw1q-29" value="Article" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2138" y="512" width="166" height="285" as="geometry">
+          <mxGeometry x="2138" y="502" width="166" height="285" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
