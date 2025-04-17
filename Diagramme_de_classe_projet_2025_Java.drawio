@@ -209,6 +209,9 @@
         <mxCell id="_1_QW9djNX36zO0-zw1q-4" value="Vue (GUI Interface)" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2633" y="316" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9g0h2vD79UEqd0-1svhS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_1_QW9djNX36zO0-zw1q-5" target="_1_QW9djNX36zO0-zw1q-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_1_QW9djNX36zO0-zw1q-5" value="Controleur (Gestion Logique)" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2850" y="316" width="120" height="60" as="geometry" />
         </mxCell>
