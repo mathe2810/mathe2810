@@ -57,7 +57,7 @@
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_gGad9FiiaPd4enUCd2u-2" value="- Date_Commande : int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_gGad9FiiaPd4enUCd2u-1" vertex="1">
+        <mxCell id="_gGad9FiiaPd4enUCd2u-2" value="- daoFactory : DaoFactory" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_gGad9FiiaPd4enUCd2u-1" vertex="1">
           <mxGeometry y="26" width="183" height="26" as="geometry" />
         </mxCell>
         <mxCell id="_gGad9FiiaPd4enUCd2u-3" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="_gGad9FiiaPd4enUCd2u-1" vertex="1">
