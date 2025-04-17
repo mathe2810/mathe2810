@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1374" dy="701" grid="0" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1602" dy="993" grid="0" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_gGad9FiiaPd4enUCd2u-1" value="UtilisateurDaoImpl" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1355" y="348" width="266" height="215" as="geometry">
+          <mxGeometry x="1355" y="415" width="266" height="215" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -64,21 +64,21 @@
           <mxGeometry y="52" width="266" height="8" as="geometry" />
         </mxCell>
         <mxCell id="_gGad9FiiaPd4enUCd2u-4" value="+ getAll(): ArrayList &lt;Utilisateur&gt; &#xa;+ ajouter (Utilisateur user) : Utilisateur&#xa;+ chercher (int id) : Utilisateur&#xa;+ modifier(Utilisateur user, String mail, &#xa;String mdp, String nom, String prenom, &#xa;String adresse, int telephone, &#xa;Boolean isAdmin) : Utilisateur&#xa;+ supprimer(int id) : void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_gGad9FiiaPd4enUCd2u-1" vertex="1">
-          <mxGeometry y="60" width="266" height="155" as="geometry" />
+          <mxGeometry y="60" width="266" height="143" as="geometry" />
         </mxCell>
         <mxCell id="_gGad9FiiaPd4enUCd2u-13" value="UtilisateurDao" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1375.5" y="171" width="183" height="98" as="geometry">
+          <mxGeometry x="1375.5" y="171" width="266" height="187" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_gGad9FiiaPd4enUCd2u-14" value="- Date_Commande : String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_gGad9FiiaPd4enUCd2u-13" vertex="1">
-          <mxGeometry y="26" width="183" height="26" as="geometry" />
+          <mxGeometry y="26" width="266" height="26" as="geometry" />
         </mxCell>
         <mxCell id="_gGad9FiiaPd4enUCd2u-15" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="_gGad9FiiaPd4enUCd2u-13" vertex="1">
-          <mxGeometry y="52" width="183" height="8" as="geometry" />
+          <mxGeometry y="52" width="266" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="_gGad9FiiaPd4enUCd2u-16" value="+ getDate(): " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_gGad9FiiaPd4enUCd2u-13" vertex="1">
-          <mxGeometry y="60" width="183" height="30" as="geometry" />
+        <mxCell id="_gGad9FiiaPd4enUCd2u-16" value="+ getAll(): ArrayList &lt;Utilisateur&gt; &#xa;+ ajouter (Utilisateur user) : Utilisateur&#xa;+ chercher (int id) : Utilisateur&#xa;+ modifier(Utilisateur user, String mail, &#xa;String mdp, String nom, String prenom, &#xa;String adresse, int telephone, &#xa;Boolean isAdmin) : Utilisateur&#xa;+ supprimer(int id) : void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_gGad9FiiaPd4enUCd2u-13" vertex="1">
+          <mxGeometry y="60" width="266" height="127" as="geometry" />
         </mxCell>
         <mxCell id="_gGad9FiiaPd4enUCd2u-23" value="CommandeTotaleDao" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="906" y="171" width="203" height="98" as="geometry">
@@ -268,12 +268,13 @@
         <mxCell id="_1_QW9djNX36zO0-zw1q-37" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DAO :&amp;nbsp;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="835" width="117" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="eA_Phum9mv0MIodBfqR5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.512;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=diamondThin;startFill=0;endArrow=none;exitX=-0.007;exitY=0.285;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" source="_gGad9FiiaPd4enUCd2u-4">
+        <mxCell id="eA_Phum9mv0MIodBfqR5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.512;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=diamondThin;startFill=0;endArrow=none;exitX=-0.007;exitY=0.285;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1426.5" y="428.33" as="sourcePoint" />
-            <mxPoint x="1241.9" y="263.6599999999999" as="targetPoint" />
+            <mxPoint x="1353.138" y="484.755" as="sourcePoint" />
+            <mxPoint x="1241.9" y="265.6599999999999" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1242" y="428" />
+              <mxPoint x="1332" y="485" />
+              <mxPoint x="1242" y="485" />
             </Array>
           </mxGeometry>
         </mxCell>
