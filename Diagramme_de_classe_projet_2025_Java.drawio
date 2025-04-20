@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1292" dy="648" grid="0" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1491" dy="926" grid="0" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -32,8 +32,8 @@
         <mxCell id="VbPlPjavXo8CKthwoIQm-10" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="VbPlPjavXo8CKthwoIQm-4" vertex="1">
           <mxGeometry y="52" width="306" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="VbPlPjavXo8CKthwoIQm-11" value="+ getAll() : ArrayList&lt;Commander&gt;&#xa;+ ajouter (Commande commande) : void&#xa;+ chercher (int id) : Commande&#xa;+ modifier (Commande commande) : Commande&#xa;+ supprimer (int id) : void&#xa;+ getCommandeParUtilisateur (int utilisateurID) : List&lt;Commande&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VbPlPjavXo8CKthwoIQm-4" vertex="1">
-          <mxGeometry y="60" width="306" height="150" as="geometry" />
+        <mxCell id="VbPlPjavXo8CKthwoIQm-11" value="+ getAll() : ArrayList&lt;Commander&gt;&#xa;+ ajouter (Commande commande) : void&#xa;+ chercher (int id) : Commande&#xa;+ modifier (Commande commande) : Commande&#xa;+ supprimer (int id) : void&#xa;+ getCommandeParUtilisateur (int utilisateurID) : &#xa;    List&lt;Commande&gt;&#xa;+ map (ResultSet resultats) : Commande" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VbPlPjavXo8CKthwoIQm-4" vertex="1">
+          <mxGeometry y="60" width="306" height="133" as="geometry" />
         </mxCell>
         <mxCell id="aJVNdu5gyN5oH490tWRa-0" value="DaoFactory" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="928" y="507" width="441" height="156" as="geometry">
