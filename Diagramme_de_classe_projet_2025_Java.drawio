@@ -117,15 +117,15 @@
           <mxGeometry y="34" width="197" height="26" as="geometry" />
         </mxCell>
         <mxCell id="_gGad9FiiaPd4enUCd2u-38" value="Commandes" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1777" y="511" width="204.5" height="155" as="geometry">
+          <mxGeometry x="1777" y="511" width="204.5" height="173" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_gGad9FiiaPd4enUCd2u-39" value="- Id : int&#xa;- utilisateurID : int&#xa;- Liste_Id_Article : int[]&#xa;- Liste_Nombre_Article : &#xa;- Date_Commande : String&#xa;- Id_Client : int&#xa;- Totale : float&#xa;- Statut : String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_gGad9FiiaPd4enUCd2u-38" vertex="1">
-          <mxGeometry y="26" width="204.5" height="108" as="geometry" />
+        <mxCell id="_gGad9FiiaPd4enUCd2u-39" value="- Id : int&#xa;- utilisateurID : int&#xa;- date : String&#xa;- statut : String&#xa;- prix : double&#xa;- Liste_Id_Article : String&#xa;- Liste_Nombre_Article : String&#xa;- adresseLivraison: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_gGad9FiiaPd4enUCd2u-38" vertex="1">
+          <mxGeometry y="26" width="204.5" height="128" as="geometry" />
         </mxCell>
         <mxCell id="_gGad9FiiaPd4enUCd2u-40" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="_gGad9FiiaPd4enUCd2u-38" vertex="1">
-          <mxGeometry y="134" width="204.5" height="8" as="geometry" />
+          <mxGeometry y="154" width="204.5" height="8" as="geometry" />
         </mxCell>
         <mxCell id="_gGad9FiiaPd4enUCd2u-60" value="ShoppingView" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-728" y="238" width="363" height="649" as="geometry">
