@@ -22,7 +22,7 @@
           <mxGeometry y="60" width="432" height="115" as="geometry" />
         </mxCell>
         <mxCell id="VbPlPjavXo8CKthwoIQm-4" value="CommandeTotaleDaoImpl" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="873" y="250" width="306" height="149" as="geometry">
+          <mxGeometry x="873" y="250" width="306" height="210" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -32,8 +32,8 @@
         <mxCell id="VbPlPjavXo8CKthwoIQm-10" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="VbPlPjavXo8CKthwoIQm-4" vertex="1">
           <mxGeometry y="52" width="306" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="VbPlPjavXo8CKthwoIQm-11" value="+ getAll() : ArrayList&lt;Commander&gt;&#xa;+ ajouter (Commande commande) : void&#xa;+ chercher (int id) : Commande&#xa;+ modifier (Commande commande) : Commande&#xa;+ supprimer (int id) : void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VbPlPjavXo8CKthwoIQm-4" vertex="1">
-          <mxGeometry y="60" width="306" height="89" as="geometry" />
+        <mxCell id="VbPlPjavXo8CKthwoIQm-11" value="+ getAll() : ArrayList&lt;Commander&gt;&#xa;+ ajouter (Commande commande) : void&#xa;+ chercher (int id) : Commande&#xa;+ modifier (Commande commande) : Commande&#xa;+ supprimer (int id) : void&#xa;+ getCommandeParUtilisateur (int utilisateurID) : List&lt;Commande&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VbPlPjavXo8CKthwoIQm-4" vertex="1">
+          <mxGeometry y="60" width="306" height="150" as="geometry" />
         </mxCell>
         <mxCell id="aJVNdu5gyN5oH490tWRa-0" value="DaoFactory" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="928" y="507" width="441" height="156" as="geometry">
