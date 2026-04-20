@@ -62,6 +62,11 @@
         <mxCell id="oo7MTcTs6KuP4fUWDnBD-4" parent="oo7MTcTs6KuP4fUWDnBD-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Choix de carré" vertex="1">
           <mxGeometry height="30" width="170" y="90" as="geometry" />
         </mxCell>
+        <UserObject label="gdal_translate -of PNG -ot UInt16 -scale 0 2700 0 65535 -outsize 4033 4033 -r cubic &quot;%f&quot; &quot;C:\Users\SECAPEM SIM\Documents\DEM_PNG_Export\%~nf_8129.png&quot;)" link="for %f in (*.tif) do (gdal_translate -of PNG -ot UInt16 -scale 0 2700 0 65535 -outsize 4033 4033 -r cubic &quot;%f&quot; &quot;C:\Users\SECAPEM SIM\Documents\DEM_PNG_Export\%~nf_8129.png&quot;)" id="oo7MTcTs6KuP4fUWDnBD-8">
+          <mxCell parent="1" style="text;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="560" x="300" y="800" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
