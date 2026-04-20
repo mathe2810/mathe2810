@@ -37,6 +37,18 @@
         <mxCell id="DKetB90oI1RrJRrH9an5-14" parent="DKetB90oI1RrJRrH9an5-11" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="google_sat param = s : image satellite 1m/px&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="170" y="90" as="geometry" />
         </mxCell>
+        <mxCell id="oo7MTcTs6KuP4fUWDnBD-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Découpe de zone" vertex="1">
+          <mxGeometry height="120" width="170" x="310" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="oo7MTcTs6KuP4fUWDnBD-2" parent="oo7MTcTs6KuP4fUWDnBD-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="OSGeo4W shell" vertex="1">
+          <mxGeometry height="30" width="170" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oo7MTcTs6KuP4fUWDnBD-3" parent="oo7MTcTs6KuP4fUWDnBD-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Script python" vertex="1">
+          <mxGeometry height="30" width="170" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oo7MTcTs6KuP4fUWDnBD-4" parent="oo7MTcTs6KuP4fUWDnBD-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Choix de carré" vertex="1">
+          <mxGeometry height="30" width="170" y="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
