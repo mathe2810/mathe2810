@@ -67,6 +67,11 @@
             <mxGeometry height="50" width="560" x="300" y="800" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="gdal_translate -of PNG &quot;Corse_1_1.tif&quot; &quot;C:\Users\SECAPEM SIM\Documents\DEM_PNG_Export.png&quot;" link="gdal_translate -of PNG &quot;Corse_1_1.tif&quot; &quot;C:\Users\SECAPEM SIM\Documents\DEM_PNG_Export.png&quot;" id="oo7MTcTs6KuP4fUWDnBD-9">
+          <mxCell parent="1" style="text;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="50" width="560" x="300" y="860" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
